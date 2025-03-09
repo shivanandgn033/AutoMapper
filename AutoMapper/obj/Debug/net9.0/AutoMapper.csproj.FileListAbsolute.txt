@@ -12,3 +12,4 @@ E:\GitHub Project\dotnetprojects\web\automapper\AutoMapper\obj\Debug\net9.0\refi
 E:\GitHub Project\dotnetprojects\web\automapper\AutoMapper\obj\Debug\net9.0\AutoMapper.pdb
 E:\GitHub Project\dotnetprojects\web\automapper\AutoMapper\obj\Debug\net9.0\AutoMapper.genruntimeconfig.cache
 E:\GitHub Project\dotnetprojects\web\automapper\AutoMapper\obj\Debug\net9.0\ref\AutoMapper.dll
+E:\GitHub Project\dotnetprojects\web\automapper\AutoMapper\obj\Debug\net9.0\AutoMapper.sourcelink.json
