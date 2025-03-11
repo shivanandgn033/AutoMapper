@@ -96,6 +96,7 @@ dest.UserId is mapped from src.Id.
 dest.FullName is mapped from src.Name.
 dest.FormattedBirthDate is mapped from src.BirthDate, and we format it as a string.
 cfg.CreateMap<Address, Address>(); maps the address objects, so nested objects are correctly mapped.
+
 IMapper:
 
 We create an IMapper instance from the MapperConfiguration. This is the object that performs the actual mapping.
