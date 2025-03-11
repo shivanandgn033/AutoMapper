@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("automapperproject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2118a83daab327806e5976a5f44672734ef76a06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f8a2bddeb731083fec46bbe0b630ca7089ea1a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("automapperproject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("automapperproject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
