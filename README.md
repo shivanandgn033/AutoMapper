@@ -8,6 +8,7 @@ Reduces boilerplate code: Manually mapping properties between objects can be ted
 Improves code readability: Mapping logic is centralized and easily understood.
 Simplifies refactoring: Changes to object structures are easier to manage, as AutoMapper handles the mapping logic.
 Supports complex mappings: AutoMapper can handle nested objects, collections, and custom mapping logic.
+
 Example:
 
 Let's say we have two classes: Source and Destination. We want to map properties from Source to Destination.
